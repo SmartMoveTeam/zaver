@@ -9,7 +9,7 @@ The purpose of Zaver is to help developers understand how to write a high perfor
 
 ## programming model
 
-* epoll
+* epollsds
 * non-blocking I/O
 * thread-pool
 
